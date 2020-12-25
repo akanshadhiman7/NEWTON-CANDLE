@@ -1,2 +1,2 @@
-# NEWTON-CANDLE
-NEWTON CANDLE
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
